@@ -1,4 +1,5 @@
 {
+  "name": "solid-start-static",
   "scripts": {
     "dev": "solid-start dev",
     "build": "solid-start build",
