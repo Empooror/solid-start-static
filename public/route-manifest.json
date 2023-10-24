@@ -1,0 +1,102 @@
+{
+  "/*404": {
+    "type": "route",
+    "script": {
+      "type": "script",
+      "href": "/solid-start-static/assets/_...404_-833e884e.js"
+    },
+    "assets": [
+      {
+        "type": "script",
+        "href": "/solid-start-static/assets/_...404_-833e884e.js"
+      },
+      {
+        "type": "script",
+        "href": "/solid-start-static/assets/index-114a743d.js"
+      },
+      {
+        "type": "script",
+        "href": "/solid-start-static/assets/index-206cf088.js"
+      },
+      {
+        "type": "style",
+        "href": "/solid-start-static/assets/index-d870915a.css"
+      }
+    ]
+  },
+  "/docs": {
+    "type": "route",
+    "script": {
+      "type": "script",
+      "href": "/solid-start-static/assets/docs-ad35c7d3.js"
+    },
+    "assets": [
+      {
+        "type": "script",
+        "href": "/solid-start-static/assets/docs-ad35c7d3.js"
+      },
+      {
+        "type": "script",
+        "href": "/solid-start-static/assets/index-114a743d.js"
+      },
+      {
+        "type": "script",
+        "href": "/solid-start-static/assets/index-206cf088.js"
+      },
+      {
+        "type": "style",
+        "href": "/solid-start-static/assets/index-d870915a.css"
+      }
+    ]
+  },
+  "/": {
+    "type": "route",
+    "script": {
+      "type": "script",
+      "href": "/solid-start-static/assets/index-f0f3876e.js"
+    },
+    "assets": [
+      {
+        "type": "script",
+        "href": "/solid-start-static/assets/index-f0f3876e.js"
+      },
+      {
+        "type": "script",
+        "href": "/solid-start-static/assets/index-114a743d.js"
+      },
+      {
+        "type": "script",
+        "href": "/solid-start-static/assets/index-206cf088.js"
+      },
+      {
+        "type": "style",
+        "href": "/solid-start-static/assets/index-d870915a.css"
+      },
+      {
+        "type": "style",
+        "href": "/solid-start-static/assets/index-fdb6b3cf.css"
+      }
+    ]
+  },
+  "entry-client": {
+    "type": "entry",
+    "assets": []
+  },
+  "index.html": {
+    "type": "entry",
+    "script": {
+      "type": "script",
+      "href": "/solid-start-static/assets/index-206cf088.js"
+    },
+    "assets": [
+      {
+        "type": "script",
+        "href": "/solid-start-static/assets/index-206cf088.js"
+      },
+      {
+        "type": "style",
+        "href": "/solid-start-static/assets/index-d870915a.css"
+      }
+    ]
+  }
+}
