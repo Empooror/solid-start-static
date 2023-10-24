@@ -1,7 +1,7 @@
 import solid from "solid-start/vite";
 import { defineConfig } from "vite";
 export default defineConfig({
-  base: "/solid-start-static/",
+  // base: "/solid-start-static/",
   plugins: [
     {
       ...(await import("@mdx-js/rollup")).default({
